@@ -7,7 +7,7 @@ This is the code for Tiket.com workshop for Docker in July 2023.
 
 ## How-to
 1. Clone this repository
-2. To build the image: `docker build -t kubeflow-demo:v1.0.0 .`
+2. To build the image: `docker build -t kubeflow-demo:v1.0.0 .` --> Please include the period "."
 3. To instantiate the container from the image: `docker run kubeflow-demo:v1.0.0`
 
 ## Notes
